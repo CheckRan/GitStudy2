@@ -19,6 +19,8 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"%s",__func__);
+    
+    NSLog(@"经理");
 }
 
 - (void)didReceiveMemoryWarning {
